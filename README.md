@@ -1,5 +1,3 @@
-# Trae-small-game
-
 # 猜数字游戏 - number.cpp
 
 ## 游戏说明
